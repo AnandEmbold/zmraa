@@ -15,4 +15,8 @@ sources:
     - 'gulp'
     - 'grunt'
     - 'library'
+    - 'libs'
     - '.git'
+    - '.so'
+    - '.h'
+    - 'openCV'
